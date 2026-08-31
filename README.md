@@ -33,3 +33,4 @@
 - [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
 - [AWS RDS CP MCP Server](https://github.com/aws-rds-mcp/)
 - [Enhance your AIOps: Introducing Amazon CloudWatch and Application Signals MCP servers](https://aws.amazon.com/blogs/mt/enhance-your-aiops-introducing-amazon-cloudwatch-and-application-signals-mcp-servers/)
+- [What is AIOps](https://aws.amazon.com/what-is/aiops/)
