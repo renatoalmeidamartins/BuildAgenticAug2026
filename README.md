@@ -16,3 +16,4 @@
 - [Accelerating migration assessments and planning with AWS Transform](https://aws.amazon.com/blogs/migration-and-modernization/accelerating-migration-assessments-and-planning-with-aws-transform/)
 - [Strands sdk tools](https://github.com/strands-agents/tools)
 - [Simplest strands agent](https://github.com/strands-agents)
+- [What is Amazon Bedrock AgentCore?](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
