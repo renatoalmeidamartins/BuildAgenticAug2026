@@ -29,3 +29,5 @@
     - [LangGraph](https://github.com/langchain-ai/langgraph)
   - [CrewAI](https://docs.crewai.com/v1.15.18/en/quickstart) quickstart
   - [Llamaindex](https://github.com/run-llama/llama_index)
+- [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+- [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
