@@ -34,3 +34,6 @@
 - [AWS RDS CP MCP Server](https://github.com/aws-rds-mcp/)
 - [Enhance your AIOps: Introducing Amazon CloudWatch and Application Signals MCP servers](https://aws.amazon.com/blogs/mt/enhance-your-aiops-introducing-amazon-cloudwatch-and-application-signals-mcp-servers/)
 - [What is AIOps](https://aws.amazon.com/what-is/aiops/)
+- Developing agents for AgentCore
+  - [Deprecated - agentcore starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
+  - [Currently - Agentcore CLI](https://github.com/aws/agentcore-cli)
