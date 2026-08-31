@@ -28,4 +28,4 @@
     - [Agents on Langchain](https://docs.langchain.com/oss/python/langchain/agents)
     - [LangGraph](https://github.com/langchain-ai/langgraph)
   - [CrewAI](https://docs.crewai.com/v1.15.18/en/quickstart) quickstart
-  - 
+  - [Llamaindex](https://github.com/run-llama/llama_index)
