@@ -8,3 +8,4 @@
 ## Class links
 - [Using the bedrock-runtime InvokeModel](https://docs.aws.amazon.com/sdk-for-python/v1/guide/bedrock-native-invoke.html)
 - [Using the bedrock-runtime Converse](https://docs.aws.amazon.com/sdk-for-python/v1/guide/bedrock-converse.html)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
