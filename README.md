@@ -11,3 +11,4 @@
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [What are AI Agents?](https://aws.amazon.com/what-is/ai-agents/)
 - [What is prompt engineering?](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/)
