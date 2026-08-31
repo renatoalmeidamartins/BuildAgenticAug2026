@@ -44,3 +44,4 @@
 - [Bulti-in memoery strategies - pay attention to the prompts used to extract long-term memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
 - [Prompt templates for agentcore evaluations metrics](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html#helpfulness)
 - [Get started with AgentCore Observability](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-get-started.html)
+- [Repo fuill with AgentCore samples](https://github.com/awslabs/agentcore-samples/tree/main), the lab example is a summarization of this [End-to-End Customer Support Agent with AgentCore](https://github.com/awslabs/agentcore-samples/tree/main/06-workshops/09-AgentCore-E2E/strands-agents)
