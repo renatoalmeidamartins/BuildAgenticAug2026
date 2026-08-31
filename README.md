@@ -17,3 +17,4 @@
 - [Strands sdk tools](https://github.com/strands-agents/tools)
 - [Simplest strands agent](https://github.com/strands-agents)
 - [What is Amazon Bedrock AgentCore?](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
+- [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
