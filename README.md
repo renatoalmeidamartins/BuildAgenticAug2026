@@ -14,3 +14,5 @@
 - [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/)
 - [Database Migration Step-by-Step Walkthroughs](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
 - [Accelerating migration assessments and planning with AWS Transform](https://aws.amazon.com/blogs/migration-and-modernization/accelerating-migration-assessments-and-planning-with-aws-transform/)
+- [Strands sdk tools](https://github.com/strands-agents/tools)
+- [Simplest strands agent](https://github.com/strands-agents)
