@@ -41,3 +41,4 @@
 - [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
 - [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
 - [Secure AI agents with Policy in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/)
+- [Bulti-in memoery strategies - pay attention to the prompts used to extract long-term memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
