@@ -33,7 +33,8 @@
   - [Llamaindex](https://github.com/run-llama/llama_index)
 - [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 - [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
-- [AWS RDS CP MCP Server](https://github.com/aws-rds-mcp/)
+- [AWS RDS MCP Server](https://github.com/aws-rds-mcp/)
+- [Full list of MCP servers](https://github.com/awslabs/mcp)
 - [Enhance your AIOps: Introducing Amazon CloudWatch and Application Signals MCP servers](https://aws.amazon.com/blogs/mt/enhance-your-aiops-introducing-amazon-cloudwatch-and-application-signals-mcp-servers/)
 - [What is AIOps](https://aws.amazon.com/what-is/aiops/)
 - Developing agents for AgentCore
