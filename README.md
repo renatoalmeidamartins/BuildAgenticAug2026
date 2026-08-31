@@ -10,3 +10,4 @@
 - [Using the bedrock-runtime Converse](https://docs.aws.amazon.com/sdk-for-python/v1/guide/bedrock-converse.html)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [What are AI Agents?](https://aws.amazon.com/what-is/ai-agents/)
+- [What is prompt engineering?](https://aws.amazon.com/what-is/prompt-engineering/)
