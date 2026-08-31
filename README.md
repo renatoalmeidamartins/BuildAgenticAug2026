@@ -37,3 +37,4 @@
 - Developing agents for AgentCore
   - [Deprecated - agentcore starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
   - [Currently - Agentcore CLI](https://github.com/aws/agentcore-cli)
+- [Set up outbound authorization for your gateway](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-outbound-auth.html)
